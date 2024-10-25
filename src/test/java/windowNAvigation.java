@@ -41,6 +41,8 @@ public class windowNAvigation {
 
             }
 
+
+
             break;
 
 
@@ -69,6 +71,14 @@ public class windowNAvigation {
 
         System.out.println("Test passed ");
 
+
+        driver.quit();
+
+
+
+    }
+
+    public static void windowSwitcher(String title){
 
 
     }
